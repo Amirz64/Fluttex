@@ -1,6 +1,6 @@
 # Easy and Fast coding using Fluttex
 
-#### Fluttex is a package that developed for flutter framework. flutter developers can use this package to reduce their coding time and make coding easier. Fluttex include limited feature and it maybe enhanced features within time.
+##### Fluttex is a package that developed for flutter framework. flutter developers can use this package to reduce their coding time and make coding easier. Fluttex include limited feature and it maybe enhanced features within time.
 
 ## Features
 - [Easy Navigation](#easy-navigation)
@@ -10,14 +10,6 @@
  -----
 - [Installation and using Fluttex](#installation-and-using-fluttex)
 - [Developing information](#developing-information)
-
-### Add Fluttex to pubspec.yaml
-`Fluttex: ^1.0.0`
-### Import this code in your project
-```Dart
-import 'package:fluttex/fluttex.dart';
-```
-
 
 
 ## Easy Navigation
@@ -79,11 +71,13 @@ onPressed: () {
 ```Dart
 modalBottomSheet(
  context: context,
- topBorderRadius: 15,
- color: Colors.white,
+ topBorderRadius: 25,
+ height: 300,
  child: Column(
- // Your Widgets
- ));
+  children: [
+  // Your Widgets
+  ],
+));
               
 ```
 
@@ -95,5 +89,13 @@ modalBottomSheet(
 ## Material banner
 
 ## Installation and using Fluttex
+
+
+### Add Fluttex to pubspec.yaml
+`Fluttex: ^1.0.0`
+### Import this code in your project
+```Dart
+import 'package:fluttex/fluttex.dart';
+```
 
 ## Developing information

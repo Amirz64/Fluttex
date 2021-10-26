@@ -35,11 +35,19 @@ Navigator.of(context).pop();
 goBack(context);
 ```
 
-#### All functions : 
+#### All Navigation modes : 
 ```Dart
 // push to another page
 go(context, Home());
 go(context, 'home'); 
+
+// push replacement
+goReplace(context, Home());
+goReplace(context, 'home');
+
+// push and remove until
+goRemove(context, Home());
+goRemove(context, 'home');
 
 // pop
 goBack(context);

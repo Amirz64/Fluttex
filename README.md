@@ -5,8 +5,9 @@
 ### Import this code in your project
 `import 'package:fluttex/fluttex.dart';`
 
-#### Instead of this :
-```
+#### Instead of :
+```Dart
 Navigator.of(context).push(
                     MaterialPageRoute(builder: (context) => Home()));
-                    ```
+                    
+                  

@@ -12,6 +12,6 @@ Navigator.of(context).push(
 ```
 
 #### Use this :
-```
+```Dart
 go(context, Home());
 ```

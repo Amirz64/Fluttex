@@ -7,9 +7,9 @@
 - [Modal bottom sheet](#modal-bottm-sheet)
 - [Snack bar](#snack-bar)
 - [Material banner](#material-banner)
-
-
+ -----
 - [Installation and using Fluttex](#installation-and-using-fluttex)
+- [Developing information](#developing-information)
 
 ### Add Fluttex to pubspec.yaml
 `Fluttex: ^1.0.0`
@@ -95,3 +95,5 @@ modalBottomSheet(
 ## Material banner
 
 ## Installation and using Fluttex
+
+## Developing information

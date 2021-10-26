@@ -21,3 +21,12 @@ go(context, Home());
 ```Dart
 go(context, 'home');
 ```
+
+#### Instead of :
+```Dart
+Navigator.of(context).pop();
+```
+#### Use this :
+```Dart
+goBack(context);
+```

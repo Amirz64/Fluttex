@@ -5,6 +5,8 @@
 ### Import this code in your project
 `import 'package:fluttex/fluttex.dart';`
 
+### Easy Navigation
+
 #### Instead of :
 ```Dart
 Navigator.of(context).push(

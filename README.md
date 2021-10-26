@@ -34,3 +34,15 @@ Navigator.of(context).pop();
 ```Dart
 goBack(context);
 ```
+
+#### All functions : 
+```Dart
+// push to another page
+go(context, Home());
+go(context, 'home'); 
+
+// pop
+goBack(context);
+
+
+```

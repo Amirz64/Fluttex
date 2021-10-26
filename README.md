@@ -1,1 +1,1 @@
-# East and fast coding using fluttex
+# Easy and fast coding using fluttex

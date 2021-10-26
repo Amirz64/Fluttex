@@ -15,3 +15,7 @@ Navigator.of(context).push(
 ```Dart
 go(context, Home());
 ```
+#### Also you can enter your route name :
+```Dart
+go(context, 'home');
+```

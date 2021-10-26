@@ -70,7 +70,6 @@ modalBottomSheet(
  color: Colors.white,
  child: Column(
  // Your Widgets
- )
-);
+ ));
               
 ```

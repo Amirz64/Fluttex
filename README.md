@@ -8,6 +8,7 @@ import 'package:fluttex/fluttex.dart';
 ```
 
 ### Easy Navigation
+------
 
 #### Instead of :
 ```Dart

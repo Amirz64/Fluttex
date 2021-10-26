@@ -1,5 +1,9 @@
 # Easy and Fast coding using Fluttex
 
+## Features
+- 
+- [Modal bottom sheet](#modal-bottm-sheet)
+
 ### Add Fluttex to pubspec.yaml
 `Fluttex: ^1.0.0`
 ### Import this code in your project
@@ -7,7 +11,7 @@
 import 'package:fluttex/fluttex.dart';
 ```
 
-[start](#modal-bottm-sheet)
+
 
 ## Easy Navigation
 

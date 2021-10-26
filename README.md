@@ -3,6 +3,8 @@
 ## Features
 - [Easy Navigation](#easy-navigation)
 - [Modal bottom sheet](#modal-bottm-sheet)
+- [Snack bar](#snack-bar)
+- [Material banner](#material-banner)
 
 ### Add Fluttex to pubspec.yaml
 `Fluttex: ^1.0.0`
@@ -79,3 +81,10 @@ modalBottomSheet(
  ));
               
 ```
+
+
+
+## Snack bar
+
+
+## Material banner

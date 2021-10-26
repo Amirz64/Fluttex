@@ -10,3 +10,8 @@
 Navigator.of(context).push(
                     MaterialPageRoute(builder: (context) => Home()));
 ```
+
+#### Use this :
+```
+go(context, Home());
+```

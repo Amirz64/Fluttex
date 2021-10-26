@@ -8,5 +8,5 @@
 #### Instead of :
 ```Dart
 Navigator.of(context).push(
-                    MaterialPageRoute(builder: (context) => Home()));```
-                  
+                    MaterialPageRoute(builder: (context) => Home()));
+```

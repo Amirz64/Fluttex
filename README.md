@@ -37,7 +37,7 @@ goBack(context);
 
 #### All Navigation modes : 
 ```Dart
-// push to another page
+// push
 go(context, Home());
 go(context, 'home'); 
 
@@ -52,5 +52,13 @@ goRemove(context, 'home');
 // pop
 goBack(context);
 
+```
 
+### Modal bottm sheet
+
+#### Show modal bottom sheet easily :
+```Dart
+onPressed: () {
+                modalBottomSheet(context: context);
+              },
 ```

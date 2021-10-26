@@ -6,6 +6,7 @@
 `import 'package:fluttex/fluttex.dart';`
 
 ### Easy Navigation
+#### ------------------------
 
 #### Instead of :
 ```Dart
@@ -21,6 +22,7 @@ go(context, Home());
 ```Dart
 go(context, 'home');
 ```
+#### ------------------
 
 #### Instead of :
 ```Dart

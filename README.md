@@ -64,5 +64,13 @@ onPressed: () {
 ```
 ##### For example :
 ```Dart
-
+modalBottomSheet(
+ context: context,
+ topBorderRadius: 15,
+ color: Colors.white,
+ child: Column(
+ // Your Widgets
+ )
+);
+              
 ```

@@ -1,7 +1,7 @@
 # Easy and Fast coding using Fluttex
 
 ## Features
-- 
+- [Easy Navigation](#easy-navigation)
 - [Modal bottom sheet](#modal-bottm-sheet)
 
 ### Add Fluttex to pubspec.yaml

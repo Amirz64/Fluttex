@@ -7,8 +7,9 @@
 import 'package:fluttex/fluttex.dart';
 ```
 
-### Easy Navigation
-------
+[start](#-modal-bottm-sheet)
+
+## Easy Navigation
 
 #### Instead of :
 ```Dart
@@ -55,7 +56,7 @@ goBack(context);
 
 ```
 
-### Modal bottm sheet
+# Modal bottm sheet
 
 #### Show modal bottom sheet easily :
 ```Dart

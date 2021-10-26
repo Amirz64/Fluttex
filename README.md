@@ -1,12 +1,13 @@
-# Easy and fast coding using fluttex
+# Easy and Fast coding using Fluttex
 
-### Add Fluttex to your project
+### Add Fluttex to pubspec.yaml
 `Fluttex: ^1.0.0`
 ### Import this code in your project
-`import 'package:fluttex/fluttex.dart';`
+```Dart
+import 'package:fluttex/fluttex.dart';
+```
 
 ### Easy Navigation
-#### ------------------------
 
 #### Instead of :
 ```Dart
@@ -22,7 +23,8 @@ go(context, Home());
 ```Dart
 go(context, 'home');
 ```
-#### ------------------
+
+
 
 #### Instead of :
 ```Dart

@@ -59,6 +59,10 @@ goBack(context);
 #### Show modal bottom sheet easily :
 ```Dart
 onPressed: () {
-modalBottomSheet(context: context);
+ modalBottomSheet(context: context);
 }
+```
+##### For example :
+```Dart
+
 ```

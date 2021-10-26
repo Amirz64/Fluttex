@@ -7,7 +7,7 @@
 import 'package:fluttex/fluttex.dart';
 ```
 
-[start](#-modal-bottm-sheet)
+[start](#modal-bottm-sheet)
 
 ## Easy Navigation
 

@@ -6,5 +6,7 @@
 `import 'package:fluttex/fluttex.dart';`
 
 #### Instead of this :
-```Navigator.of(context).push(
-                    MaterialPageRoute(builder: (context) => Home()));```
+```
+Navigator.of(context).push(
+                    MaterialPageRoute(builder: (context) => Home()));
+                    ```

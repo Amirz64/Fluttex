@@ -4,3 +4,7 @@
 `Fluttex: ^1.0.0`
 ### Import this code in your project
 `import 'package:fluttex/fluttex.dart';`
+
+#### Instead of this :
+`Navigator.of(context).push(
+                    MaterialPageRoute(builder: (context) => Home()));`

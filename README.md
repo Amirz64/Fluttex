@@ -130,7 +130,12 @@ snackBar(
   width: 200);
  
 ```
+ <p align="left">
+ 
+ <img src="screens/s2.png"  width="25%">
 
+
+ </p>
 
 ## Material banner
 
@@ -139,6 +144,19 @@ snackBar(
 onPressed: () {
   materialBanner(context: context);
 },
+```
+
+##### For example :
+```Dart
+materialBanner(
+  context: context,
+  onVisible: () {},
+  customAction: () {},
+  text: 'Fluttex',
+  actionText: 'Close',
+  backgroundColor: Colors.black,
+  textStyle: TextStyle(color: Colors.white),
+);
 ```
 
 ## Installation and using Fluttex

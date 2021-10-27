@@ -102,8 +102,24 @@ modalBottomSheet(
 
 ## Snack bar
 
+#### Show snack bar : 
+
+```Dart
+onPressed: () {
+  snackBar(context: context, onActionPressed: () {});
+}
+```
+
+
 
 ## Material banner
+
+#### Show material banner :
+```Dart
+onPressed: () {
+  materialBanner(context: context);
+},
+```
 
 ## Installation and using Fluttex
 

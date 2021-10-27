@@ -130,7 +130,12 @@ snackBar(
   width: 200);
  
 ```
+ <p align="left">
+ 
+ <img src="screens/s2.png"  width="25%">
 
+
+ </p>
 
 ## Material banner
 

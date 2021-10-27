@@ -146,6 +146,19 @@ onPressed: () {
 },
 ```
 
+##### For example :
+```Dart
+materialBanner(
+  context: context,
+  onVisible: () {},
+  customAction: () {},
+  text: 'Fluttex',
+  actionText: 'Close',
+  backgroundColor: Colors.black,
+  textStyle: TextStyle(color: Colors.white),
+);
+```
+
 ## Installation and using Fluttex
 
 

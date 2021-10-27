@@ -132,3 +132,9 @@ import 'package:fluttex/fluttex.dart';
 ```
 
 ## Developing information
+
+- Developer : Amirz64
+- Email : a.hassanzadeh8115@gmail.com 
+- Telegram : @AmirzCode
+
+Made with love in Iran :heart:

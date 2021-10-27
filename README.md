@@ -115,6 +115,21 @@ onPressed: () {
 
 
  </p>
+ 
+ ##### For example : 
+```Dart
+snackBar(
+  context: context,
+  onActionPressed: () {},
+  isFixed: false,
+  text: 'Fluttex',
+  backgroundColor: Colors.black,
+  borderRadius: BorderRadius.circular(10),
+  actionText: 'close',
+  secondsDuration: 2,
+  width: 200);
+ 
+```
 
 
 ## Material banner

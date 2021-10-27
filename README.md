@@ -81,12 +81,15 @@ modalBottomSheet(
               
 ```
 ##### Result : 
- <p align="right">
+ <p align="left">
  
  <img src="screens/m1.png"  width="25%">
 
 
  </p>
+ 
+ ##### Solving keyboard problem : 
+ ###### This problem going on when developer using text field in the modal bottom sheet. in normal mode keyboard puting on the modal bottom sheet and for solving that you should do some works. Fluttex solve this problem and you dont need to do additionally work.  
 
 
 

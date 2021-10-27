@@ -80,6 +80,13 @@ modalBottomSheet(
 ));
               
 ```
+##### Result : 
+ <p align="right">
+ 
+ <img src="screens/m1.png"  width="25%">
+
+
+ </p>
 
 
 

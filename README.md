@@ -89,7 +89,14 @@ modalBottomSheet(
  </p>
  
  ##### Solving keyboard problem : 
- ###### This problem going on when developer using text field in the modal bottom sheet. in normal mode keyboard puting on the modal bottom sheet and for solving that you should do some works. Fluttex solve this problem and you dont need to do additionally work.  
+  This problem is happend when developer using text field in the modal bottom sheet. in normal mode keyboard puted on the modal bottom sheet and for solving that you should do some works. Fluttex solve this problem and you dont need to do additionally work.
+  > This issue was tested. but it may be different in another flutter versions or phones. so you can test this part easily and if the problem is there yet, you can contact me.
+ <p align="left">
+ 
+ <img src="screens/m2.png"  width="25%">
+
+
+ </p>
 
 
 
